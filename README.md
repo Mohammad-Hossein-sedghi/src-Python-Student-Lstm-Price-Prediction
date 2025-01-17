@@ -1,4 +1,3 @@
-![download (5)](https://github.com/user-attachments/assets/e4be3243-e98e-4dad-a5e7-2f3883cf2982)# src-Python-Student-Lstm-Price-Prediction
 LSTM Price Prediction for Nifty 50 stock 
 This Code Uses nifty 50 stock historical prices from 2015 till 2024 using minute intervals
 I had to use low sequence numbers , low LSTM Layers , low epoches and low future_len 
